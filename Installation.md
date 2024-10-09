@@ -6,8 +6,6 @@ This guide provides detailed instructions on how to install KinD (Kubernetes in 
 
 [![How to Install KinD on Windows](kind-windows.png)](https://www.youtube.com/watch?v=kbeqNY0v0c4&t)
 
-[Watch the Video](https://www.youtube.com/watch?v=kbeqNY0v0c4&t)
-
 ## Requirements 
 
 Before starting, ensure you meet the following prerequisites:
@@ -77,14 +75,5 @@ You have successfully installed KinD on your Windows system and created a Kubern
 
 For more information and advanced configurations, check out the [KinD Documentation](https://kind.sigs.k8s.io/docs/user/quick-start/).
 
-## How to Contribute Ì¥ù
 
-Contributions to this project are welcome! Whether you want to fix a bug, improve documentation, or add new features, please check out our [Contribution Guidelines](../CONTRIBUTING.md) to get started.
 
-## License Ì≥ú
-
-This project is licensed under the [MIT License](../LICENSE), so you're free to use it in your own projects.
-
-## Support My Work
-
-Creating free, high-quality videos and resources for everyone is challenging. Your support enables me to invest more in content creation, enhancing overall quality. Becoming a member offers significant support and comes with cool perks as a token of appreciation.
