@@ -3,7 +3,7 @@
 Kind stands for Kubernetes IN Docker. It is a tool for running local Kubernetes clusters using Docker containers as the cluster nodes. Kind is designed primarily for testing Kubernetes itself, but it can also be used for local development and CI/CD workflows.
 
 ### Benefits of Kind
-Lightweight: Kind runs Kubernetes clusters in Docker containers, which means it uses fewer resources compared to traditional VM-based Kubernetes clusters.
+* Lightweight: Kind runs Kubernetes clusters in Docker containers, which means it uses fewer resources compared to traditional VM-based Kubernetes clusters.
 
 ## Speed: You can quickly create and destroy clusters, making it ideal for testing and development environments.
 
